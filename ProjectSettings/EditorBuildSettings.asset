@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scene4.unity
     guid: 7d80af8c388034c7caff5d3b3e363b2b
+  - enabled: 1
+    path: Assets/Scenes/TerrainDemoScene.unity
+    guid: 9c35ecdb545885e49b26a1f6df01b3c8
+  - enabled: 1
+    path: Assets/Scenes/snapsDemo.unity
+    guid: 79cebe25ed936b34491fa5d4d94420c2
+  - enabled: 1
+    path: Assets/Space-Shmup.unity
+    guid: b2f5f87b3f8bba346a463f67d4c12c2d
   m_configObjects: {}
